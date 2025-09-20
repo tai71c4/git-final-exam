@@ -1,0 +1,13 @@
+Xin chào, tôi là Đỗ Thành Nhân Tài.
+Tôi đang là sinh viên năm 3 ngành CNTT.
+Tôi yêu thích lập trình và công nghệ.
+Tôi muốn cải thiện kỹ năng Git.
+Tôi đang làm bài thi Git Final Exam.
+- Sở thích: đọc sách, nghe nhạc, code
+- Kỹ năng: Python, Git, SQL
+## Kế hoạch học tập
+1. Ôn tập Git 1 tiếng mỗi ngày.
+2. Thực hành commit và branch.
+3. Học thêm GitHub Actions.
+4. Viết báo cáo mỗi tuần.
+5. Chuẩn bị cho dự án nhóm.
