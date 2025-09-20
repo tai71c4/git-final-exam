@@ -1,2 +1,6 @@
-Tính năng: hệ thống gợi ý phim.
-Mô tả: sử dụng AI để gợi ý.
+Tính năng: 
+- Hệ thống gợi ý phim.
+- Cho phép gửi thông báo khi có sự kiện quan trọng.
+- Người dùng có thể bật/tắt thông báo trong cài đặt.
+- Hỗ trợ thông báo qua email và trong ứng dụng.
+- Có thể mở rộng thêm SMS trong phiên bản sau.
