@@ -1,0 +1,2 @@
+Tính năng: hệ thống gợi ý phim.
+Mô tả: sử dụng AI để gợi ý.
